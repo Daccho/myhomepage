@@ -1,3 +1,27 @@
+@charset "UTF-8";
+
+.travel-header{
+    font-size: 20px;
+    background-color: aqua;
+}
+
+.backhome{
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    margin-left: 80%;
+    background-color: aquamarine;
+}
+
+.secimg{
+    margin: 20px;
+}
+
+.daimel{
+    border: outset palegreen;
+}
+
+/* カルーセル */
 .carousel {
     width: 80%;
     margin: 16px auto;
